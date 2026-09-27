@@ -239,4 +239,4 @@ This repository serves as the official landing page for UltraHLE. The software i
 **Get the most recent version of UltraHLE today!**
 
 ---
-**Last updated:** 2026-09-27 06:16:09 UTC
+**Last updated:** 2026-09-27 12:46:32 UTC
